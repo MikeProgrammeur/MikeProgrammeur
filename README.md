@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikeProgrammeur
-- 👀 I’m interested in creating little video games
-- 🌱 I’m currently learning STEM
+- 👀 I’m intersted in training my coding skills
+- 🌱 I’m currently learning at Telecom Sudparis
 - 🎓 In order to be a programmer.
 
 <!---
