@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MikeProgrammeur
 - 👀 I’m training my coding skills
-- 🌱 I’m currently studying at Telecom Sudparis
+- 🌱 Student at Telecom SudParis and Ecole Normale Supérieure de Paris-Saclay
 
 <!---
 MikeProgrammeur/MikeProgrammeur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
